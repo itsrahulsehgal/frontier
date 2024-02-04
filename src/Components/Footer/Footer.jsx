@@ -1,5 +1,4 @@
 import "./Footer.css";
-import logo from "/assets/Techspardha.svg";
 import {
   FaGithub,
   FaFacebookSquare,
